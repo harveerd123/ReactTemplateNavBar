@@ -1,0 +1,6 @@
+@ReactTemplateNavBar.Server_HostAddress = http://localhost:5193
+
+GET {{ReactTemplateNavBar.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
